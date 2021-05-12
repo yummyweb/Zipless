@@ -6,4 +6,4 @@ Zipless is an implementation of the unzip utility in Go. It utilizes the Go stdl
 
 Install the executable and add it to PATH variable.
 
-Zipless takes two arguements, `src` - where is your zip to decompress and `dest` - where two decompress the zip.
+Zipless takes two arguements, `src` - where is your zip to decompress and `dest` - where to decompress the zip.
